@@ -12,8 +12,8 @@ very easy to use any model for authentication simply by setting
 subclassing the User class in `django.contrib.auth.models` instead if you want a model that plays 
 nicely with the rest of `django.contrib.auth` the simplest way is to copy all the code in
 `django.contrib.auth.models.User` and substitute username for emailaddress. You also need to 
-edit some other minor stuff. This Django app does just that. I'm using it in production for a couple
-of client sites and it works fine.
+edit some other minor stuff in forms.py and admin.py. This Django app does just that. I'm using it 
+in production for a couple of client sites and it works fine.
 
 Quick start
 -----------
