@@ -1,12 +1,16 @@
 Metadata-Version: 1.1
 Name: django-libtech-emailuser
 Version: 0.1
-Summary: A simple Django app to conduct Web-based polls.
+Summary: Use emailaddress as username in Django +1.5
 Home-page: https://github.com/Liberationtech/django-libtech-emailuser
 Author: Oivvio Polite
 Author-email: oivvio@liberationtech.net
 License: BSD License
-Description: UNKNOWN
+Description: django-libtech-emailuser
+        ========================
+        
+        Email as username in Django +1.5
+        
 Platform: UNKNOWN
 Classifier: Environment :: Web Environment
 Classifier: Framework :: Django

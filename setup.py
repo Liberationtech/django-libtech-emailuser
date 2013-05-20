@@ -12,7 +12,7 @@ setup(
     packages=['emailuser'],
     include_package_data=True,
     license='BSD License',
-    description='A simple Django app to conduct Web-based polls.',
+    description='Use emailaddress as username in Django +1.5',
     long_description=README,
     url='https://github.com/Liberationtech/django-libtech-emailuser',
     author='Oivvio Polite',
