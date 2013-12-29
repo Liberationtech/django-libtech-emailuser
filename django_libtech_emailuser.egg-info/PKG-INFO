@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: django-libtech-emailuser
-Version: 0.2
+Version: 0.2.1
 Summary: Use emailaddress as username in Django +1.5
 Home-page: https://github.com/Liberationtech/django-libtech-emailuser
 Author: Oivvio Polite
