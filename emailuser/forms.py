@@ -52,6 +52,7 @@ class EmailUserChangeForm(forms.ModelForm):
 
     class Meta:
         model = EmailUser
+        fields = '__all__'
 
     def __init__(self, *args, **kwargs):
         super(EmailUserChangeForm, self).__init__(*args, **kwargs)
